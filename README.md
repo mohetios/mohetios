@@ -1,118 +1,86 @@
-# Hi, I’m Mohetios
+# Hi, I’m Ali Zemani — Mohetios
 
-I build sofr product engineer focused on turning unclear ideas, workflows, and technical capabilities into practical software systems.
+I’m a product-minded software engineer building practical systems across web, frontend, mobile, cloud/serverless, internal tools, and AI-assisted workflows.
 
-I have around 15 years of experience across web platforms, mobile applications, dashboards, internal tools, API-driven products, cloud/serverless systems, connected-product prototypes, and AI-assisted workflows.
+Most of my work sits between **product thinking** and **engineering execution**: understanding the problem, shaping the flow, designing the system, and building software that can be shipped, maintained, and improved.
 
-Most of my work sits between **product thinking** and **engineering execution**: understanding the problem, shaping the system, designing the flow, and building software that can be shipped, maintained, and improved.
+I care about useful software — not just interesting code.
 
-I care about useful systems — not just interesting code.
+[![Website](https://img.shields.io/badge/Website-mohetios.dev-black)](https://mohetios.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Zemani-blue)](https://linkedin.com/in/ali-zemani)
+[![GitHub](https://img.shields.io/badge/GitHub-mehotkhan-181717)](https://github.com/mehotkhan)
 
 ---
 
 ## What I Build
 
-* Full-stack web applications
-* Frontend and product architecture
-* Dashboards, admin panels, and internal platforms
-* Mobile applications with React Native and Expo
+* Product-facing web applications
+* Frontend systems with React, Next.js, Vue, Nuxt, and TypeScript
+* Dashboards, admin panels, internal tools, and developer platforms
+* Mobile products with React Native and Expo
 * API-driven systems with GraphQL and REST
-* Cloud/serverless and edge-oriented workflows
-* Real-time interfaces and local-first behavior
-* AI-assisted product workflows
-* Open-source experiments and technical documentation
-* IoT-style and connected-product prototypes
+* Cloudflare-native and serverless workflows
+* Real-time interfaces, local-first behavior, and offline-aware flows
+* AI-assisted product features and automation workflows
+* Open-source experiments, technical notes, and public case studies
+* Connected-product, IoT-style, and prototype systems
 
 ---
 
 ## Current Direction
 
-I’m currently sharpening my work around **product engineering**: taking ideas from early shape to usable product across UI, data, APIs, architecture, and delivery.
+I’m currently focused on turning my existing work into clearer public engineering assets: working demos, readable codebases, practical case studies, and technical writing that explains not only what was built, but why it was built that way.
 
 My current focus areas:
 
-* Building stronger product-engineering case studies
-* Improving React, Next.js, Vue, Nuxt, and TypeScript architecture patterns
-* Writing about technical decisions, trade-offs, and product systems
-* Using AI as a practical product capability, not just a trend
-* Building public projects with clear product and engineering value
-* Preparing for international product engineering and remote opportunities
+* Product engineering across frontend, mobile, APIs, cloud/serverless, and AI-assisted workflows
+* Frontend architecture with React, Next.js, Vue, Nuxt, and TypeScript
+* Dashboards, internal platforms, developer tools, financial workflows, and data-heavy interfaces
+* Cloudflare-native systems, edge/serverless patterns, offline-ready ideas, and operational tooling
+* Open-source projects that are understandable, runnable, and useful beyond the code itself
+* Writing about architecture decisions, trade-offs, product loops, and system design
+* Building a stronger international profile around practical software systems, not only framework-specific work
 
 ---
 
 ## Engineering Style
 
-I like working close to the actual product problem.
+I like working close to the real product problem.
 
 That usually means:
 
 * Understanding the user flow before writing code
+* Turning unclear requirements into practical software behavior
+* Keeping UI, data, state, APIs, and delivery connected
 * Reducing unnecessary complexity
-* Designing clear data and UI boundaries
-* Keeping codebases maintainable
-* Improving developer experience
+* Building systems that are readable for teams, not only functional for users
 * Making trade-offs explicit
-* Documenting decisions for future contributors
+* Documenting decisions for future maintainers
 * Shipping software that can actually be used and improved
 
 Good engineering starts before code.
 
 ---
 
-## Tech Stack
+## Technical Focus
 
 **Frontend & Product UI**
-React, Next.js, Vue, Nuxt, TypeScript, JavaScript, Tailwind CSS, MUI, Vuetify, Ant Design
+React, Next.js, Vue, Nuxt, TypeScript, JavaScript, Tailwind CSS, Material UI, Vuetify, Ant Design, complex forms, dashboards, admin panels, and product workflows
 
 **Mobile**
-React Native, Expo
+React Native, Expo, mobile commerce, marketplace flows, offline-ready behavior, and product-oriented mobile UX
 
-**Backend & APIs**
-Node.js, NestJS, GraphQL, REST APIs, serverless functions, Django REST, Flask, Laravel
+**APIs & Data**
+GraphQL, REST APIs, Apollo Client, Redux Toolkit, Pinia, local persistence, API data modeling, real-time data, and workflow-heavy interfaces
 
-**Cloud & Infrastructure**
-Cloudflare Workers, D1, R2, KV, Durable Objects, Vercel, Docker, GitHub Actions, GitLab CI/CD
-
-**Data & Persistence**
-SQLite, Drizzle ORM, MongoDB, Neo4j, client-side caching, local persistence, API data modeling
+**Cloud & Delivery**
+Cloudflare Workers, Pages, D1, KV, R2, Durable Objects, Drizzle ORM, Docker, GitHub Actions, GitLab CI/CD, and serverless product architecture
 
 **Real-Time & Connected Systems**
-WebSockets, WebRTC, Mediasoup, MQTT concepts, IoT dashboards, local-first patterns
+WebSockets, WebRTC, Mediasoup, MQTT concepts, IoT dashboards, local-first patterns, and connected-product prototypes
 
 **AI & Automation**
-AI APIs, structured AI outputs, agent-oriented workflows, product automation, content workflows
+AI APIs, structured AI outputs, AI-assisted workflows, product automation, content workflows, and practical AI features inside real products
 
-**Other Interests**
-Open-source, technical writing, IoT experiments, embedded prototypes, physics-inspired systems, invention-oriented projects
-
----
-
-## Writing & Learning
-
-I use writing to clarify engineering and product decisions.
-
-Topics I care about:
-
-* Product engineering
-* Frontend architecture
-* Full-stack web development
-* AI-assisted software workflows
-* Cloudflare and serverless systems
-* Open-source product building
-* Mobile and web UX
-* Technical decision-making
-* Building in public
-
-My personal site, **Mohetios.dev**, is where I collect notes, case studies, experiments, and long-form technical writing.
-
----
-
-## Current Thesis
-
-Useful software is not just code.
-
-It is a system that connects product intent, user flow, data, APIs, infrastructure, and real operation.
-
-That is the kind of work I try to build, write about, and improve over time.
-
+ 
  
