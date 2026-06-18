@@ -1,6 +1,6 @@
-# Hi, I’m Mohetios
+# Hi, Mohetios
 
-I’m a product-minded software engineer building practical systems across web, frontend, mobile, cloud/serverless, internal tools, and AI-assisted workflows.
+I’m a product-minded software engineer building practical systems across web, mobile, cloud/serverless, internal tools, open-source experiments, and AI-assisted workflows.
 
 Most of my work sits between **product thinking** and **engineering execution**: understanding the problem, shaping the flow, designing the system, and building software that can be shipped, maintained, and improved.
 
@@ -14,16 +14,16 @@ I care about useful software — not just interesting code.
 
 ## What I Build
 
-* Product-facing web applications
-* Frontend systems with React, Next.js, Vue, Nuxt, and TypeScript
-* Dashboards, admin panels, internal tools, and developer platforms
-* Mobile products with React Native and Expo
-* API-driven systems with GraphQL and REST
-* Cloudflare-native and serverless workflows
-* Real-time interfaces, local-first behavior, and offline-aware flows
-* AI-assisted product features and automation workflows
-* Open-source experiments, technical notes, and public case studies
-* Connected-product, IoT-style, and prototype systems
+- Product-facing web applications
+- Frontend systems with React, Next.js, Vue, Nuxt, and TypeScript
+- Dashboards, admin panels, internal tools, and developer platforms
+- Mobile products with React Native and Expo
+- API-driven systems with GraphQL and REST
+- Cloudflare-native and serverless workflows
+- Real-time interfaces, local-first behavior, and offline-aware flows
+- AI-assisted product features and automation workflows
+- Open-source experiments, technical notes, and public case studies
+- Connected-product, IoT-style, and prototype systems
 
 ---
 
@@ -33,13 +33,13 @@ I’m currently focused on turning my existing work into clearer public engineer
 
 My current focus areas:
 
-* Product engineering across frontend, mobile, APIs, cloud/serverless, and AI-assisted workflows
-* Frontend architecture with React, Next.js, Vue, Nuxt, and TypeScript
-* Dashboards, internal platforms, developer tools, financial workflows, and data-heavy interfaces
-* Cloudflare-native systems, edge/serverless patterns, offline-ready ideas, and operational tooling
-* Open-source projects that are understandable, runnable, and useful beyond the code itself
-* Writing about architecture decisions, trade-offs, product loops, and system design
-* Building a stronger international profile around practical software systems, not only framework-specific work
+- Product engineering across frontend, mobile, APIs, cloud/serverless, and AI-assisted workflows
+- Frontend architecture with React, Next.js, Vue, Nuxt, and TypeScript
+- Dashboards, internal platforms, developer tools, financial workflows, and data-heavy interfaces
+- Cloudflare-native systems, edge/serverless patterns, offline-ready ideas, and operational tooling
+- Open-source projects that are understandable, runnable, and useful beyond the code itself
+- Writing about architecture decisions, trade-offs, product loops, and system design
+- Building a stronger international profile around practical software systems, not only framework-specific work
 
 ---
 
@@ -49,14 +49,14 @@ I like working close to the real product problem.
 
 That usually means:
 
-* Understanding the user flow before writing code
-* Turning unclear requirements into practical software behavior
-* Keeping UI, data, state, APIs, and delivery connected
-* Reducing unnecessary complexity
-* Building systems that are readable for teams, not only functional for users
-* Making trade-offs explicit
-* Documenting decisions for future maintainers
-* Shipping software that can actually be used and improved
+- Understanding the user flow before writing code
+- Turning unclear requirements into practical software behavior
+- Keeping UI, data, state, APIs, and delivery connected
+- Reducing unnecessary complexity
+- Building systems that are readable for teams, not only functional for users
+- Making trade-offs explicit
+- Documenting decisions for future maintainers
+- Shipping software that can actually be used and improved
 
 Good engineering starts before code.
 
@@ -64,23 +64,76 @@ Good engineering starts before code.
 
 ## Technical Focus
 
-**Frontend & Product UI**
+**Frontend & Product UI**  
 React, Next.js, Vue, Nuxt, TypeScript, JavaScript, Tailwind CSS, Material UI, Vuetify, Ant Design, complex forms, dashboards, admin panels, and product workflows
 
-**Mobile**
+**Mobile**  
 React Native, Expo, mobile commerce, marketplace flows, offline-ready behavior, and product-oriented mobile UX
 
-**APIs & Data**
+**APIs & Data**  
 GraphQL, REST APIs, Apollo Client, Redux Toolkit, Pinia, local persistence, API data modeling, real-time data, and workflow-heavy interfaces
 
-**Cloud & Delivery**
+**Cloud & Delivery**  
 Cloudflare Workers, Pages, D1, KV, R2, Durable Objects, Drizzle ORM, Docker, GitHub Actions, GitLab CI/CD, and serverless product architecture
 
-**Real-Time & Connected Systems**
+**Real-Time & Connected Systems**  
 WebSockets, WebRTC, Mediasoup, MQTT concepts, IoT dashboards, local-first patterns, and connected-product prototypes
 
-**AI & Automation**
+**AI & Automation**  
 AI APIs, structured AI outputs, AI-assisted workflows, product automation, content workflows, and practical AI features inside real products
 
- 
- 
+---
+
+## Selected Work
+
+### Safarnak
+
+An open-source AI-assisted travel workspace exploring forkable trip planning: create, edit, share, fork, and personalize travel plans.
+
+Focus areas: AI-assisted planning, mobile product UX, offline-ready flows, Cloudflare-native architecture, and product-system design.
+
+### Mohetios.dev
+
+My personal engineering site, notebook, and product lab.
+
+I use it to publish technical writing, project notes, case studies, and experiments around product engineering, frontend architecture, Cloudflare/serverless systems, and public software work.
+
+### Nekonymous
+
+A Persian-first anonymous Telegram bot for personal deep-link messaging, conversation-style assessment, and opt-in anonymous matching, built on a Cloudflare-native stack.
+
+Focus areas: Telegram bot UX, Cloudflare Workers, Durable Objects, D1, KV, Queues, Vectorize, privacy-aware flows, abuse-control thinking, and product safety.
+
+### BandersnatchInteractive
+
+An interactive video/story player experiment for branching narratives and choice-based media experiences.
+
+Focus areas: interactive media UX, branching story logic, player state, replay/continue flows, and public demo polish.
+
+---
+
+## Writing & Learning
+
+I use writing to clarify engineering and product decisions.
+
+Topics I care about:
+
+- Product engineering
+- Frontend architecture
+- Full-stack product systems
+- Cloudflare and serverless workflows
+- AI-assisted software workflows
+- Open-source product building
+- Mobile and web UX
+- Technical decision-making
+- Building useful systems in public
+
+---
+
+## Current Thesis
+
+Useful software is not just code.
+
+It is a system that connects product intent, user flow, interface behavior, data, APIs, infrastructure, and real operation.
+
+That is the kind of work I try to build, write about, and improve over time.
