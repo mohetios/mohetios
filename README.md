@@ -84,34 +84,6 @@ AI APIs, structured AI outputs, AI-assisted workflows, product automation, conte
 
 ---
 
-## Selected Work
-
-### Safarnak
-
-An open-source AI-assisted travel workspace exploring forkable trip planning: create, edit, share, fork, and personalize travel plans.
-
-Focus areas: AI-assisted planning, mobile product UX, offline-ready flows, Cloudflare-native architecture, and product-system design.
-
-### Mohetios.dev
-
-My personal engineering site, notebook, and product lab.
-
-I use it to publish technical writing, project notes, case studies, and experiments around product engineering, frontend architecture, Cloudflare/serverless systems, and public software work.
-
-### Nekonymous
-
-A Persian-first anonymous Telegram bot for personal deep-link messaging, conversation-style assessment, and opt-in anonymous matching, built on a Cloudflare-native stack.
-
-Focus areas: Telegram bot UX, Cloudflare Workers, Durable Objects, D1, KV, Queues, Vectorize, privacy-aware flows, abuse-control thinking, and product safety.
-
-### BandersnatchInteractive
-
-An interactive video/story player experiment for branching narratives and choice-based media experiences.
-
-Focus areas: interactive media UX, branching story logic, player state, replay/continue flows, and public demo polish.
-
----
-
 ## Writing & Learning
 
 I use writing to clarify engineering and product decisions.
