@@ -8,7 +8,7 @@ I care about useful software — not just interesting code.
 
 [![Website](https://img.shields.io/badge/Website-mohetios.dev-black)](https://mohetios.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Zemani-blue)](https://linkedin.com/in/ali-zemani)
-[![GitHub](https://img.shields.io/badge/GitHub-mehotkhan-181717)](https://github.com/mehotkhan)
+[![GitHub](https://img.shields.io/badge/GitHub-mohetios-181717)](https://github.com/mohetios)
 
 ---
 
