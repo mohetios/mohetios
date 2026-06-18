@@ -1,4 +1,4 @@
-# Hi, I’m Ali Zemani — Mohetios
+# Hi, I’m Mohetios
 
 I’m a product-minded software engineer building practical systems across web, frontend, mobile, cloud/serverless, internal tools, and AI-assisted workflows.
 
