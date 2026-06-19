@@ -1,4 +1,4 @@
-# Hi, Mohetios
+# Hi,
 
 I’m a product-minded software engineer building practical systems across web, mobile, cloud/serverless, internal tools, open-source experiments, and AI-assisted workflows.
 
