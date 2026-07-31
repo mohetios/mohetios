@@ -44,7 +44,7 @@ My strongest work sits where product decisions and engineering decisions affect 
 
 ## Current Work
 
-I’m currently building and documenting independent software, open-source systems, connected products, and experimental tools through **Mohetios** and **Konar Studio**.
+I’m currently building and documenting independent software, open-source systems, connected products, and experimental tools through **Mohetios** and **Konar Earth**.
 
 The pinned repositories below are the clearest view of what I’m working on, how I structure systems, and how I document architecture and trade-offs.
 
