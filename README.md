@@ -1,42 +1,59 @@
-# Hi,
+# Hi
 
-I’m a product-minded software engineer building practical systems across web, mobile, cloud/serverless, internal tools, open-source experiments, and AI-assisted workflows.
+I’m a product-minded software engineer building practical systems across web, mobile, cloud infrastructure, developer platforms, IoT, and AI-assisted workflows.
 
-Most of my work sits between **product thinking** and **engineering execution**: understanding the problem, shaping the flow, designing the system, and building software that can be shipped, maintained, and improved.
+My work usually starts before implementation: understanding the problem, shaping the product flow, defining system boundaries, and turning uncertain requirements into software that can be shipped, operated, and improved.
 
-I care about useful software — not just interesting code.
+I work across the stack when the product requires it, with deeper experience in frontend architecture, product interfaces, real-time systems, internal platforms, mobile applications, and Cloudflare-native infrastructure.
+
+I care about useful systems, clear technical decisions, honest trade-offs, and codebases that remain understandable after the first release.
 
 [![Website](https://img.shields.io/badge/Website-mohetios.dev-black)](https://mohetios.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Zemani-blue)](https://linkedin.com/in/ali-zemani)
-[![GitHub](https://img.shields.io/badge/GitHub-mohetios-181717)](https://github.com/mohetios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Zemani-0A66C2)](https://linkedin.com/in/ali-zemani)
+[![Email](https://img.shields.io/badge/Email-hi%40mohetios.dev-444444)](mailto:hi@mohetios.dev)
 
 ---
 
-## What I Build
+## Engineering Focus
 
-- Product-facing web applications
-- Frontend systems with React, Next.js, Vue, Nuxt, and TypeScript
-- Dashboards, admin panels, internal tools, and developer platforms
-- Mobile products with React Native and Expo
-- API-driven systems with GraphQL and REST
-- Cloudflare-native and serverless workflows
-- Real-time interfaces, local-first behavior, and offline-aware flows
-- AI-assisted product features and automation workflows
-- Open-source experiments, technical notes, and public case studies
-- Connected-product, IoT-style, and prototype systems
+* Product engineering from problem definition to production delivery
+* Frontend architecture with TypeScript, React, Next.js, Vue, and Nuxt
+* Mobile applications with React Native and Expo
+* Dashboards, financial workflows, internal tools, and developer platforms
+* GraphQL, REST APIs, WebSockets, real-time and offline-aware interfaces
+* Cloudflare Workers, Pages, D1, Durable Objects, Queues, KV, and R2
+* Connected-device, IoT, automation, and prototype systems
+* AI-assisted product features, workflows, and developer tooling
 
 ---
 
-## Current Direction
+## How I Work
 
-I’m currently focused on turning my existing work into clearer public engineering assets: working demos, readable codebases, practical case studies, and technical writing that explains not only what was built, but why it was built that way.
+I prefer systems that are:
 
-My current focus areas:
+* useful before they are impressive;
+* explicit about constraints and failure modes;
+* modular without unnecessary abstraction;
+* observable, maintainable, and safe to change;
+* documented well enough for another engineer to understand;
+* shaped around product reality rather than framework conventions.
 
-- Product engineering across frontend, mobile, APIs, cloud/serverless, and AI-assisted workflows
-- Frontend architecture with React, Next.js, Vue, Nuxt, and TypeScript
-- Dashboards, internal platforms, developer tools, financial workflows, and data-heavy interfaces
-- Cloudflare-native systems, edge/serverless patterns, offline-ready ideas, and operational tooling
-- Open-source projects that are understandable, runnable, and useful beyond the code itself
-- Writing about architecture decisions, trade-offs, product loops, and system design
-- Building a stronger international profile around practical software systems, not only framework-specific work
+My strongest work sits where product decisions and engineering decisions affect each other: permissions, validation, state transitions, data contracts, operational workflows, performance, deployment, and long-term maintainability.
+
+---
+
+## Current Work
+
+I’m currently building and documenting independent software, open-source systems, connected products, and experimental tools through **Mohetios** and **Konar Studio**.
+
+The pinned repositories below are the clearest view of what I’m working on, how I structure systems, and how I document architecture and trade-offs.
+
+I also write about product engineering, system design, infrastructure, open-source development, and the process of turning ideas into working artifacts.
+
+---
+
+## Elsewhere
+
+* Website and technical notebook: [mohetios.dev](https://mohetios.dev)
+* LinkedIn: [linkedin.com/in/ali-zemani](https://linkedin.com/in/ali-zemani)
+* Email: [hi@mohetios.dev](mailto:hi@mohetios.dev)
